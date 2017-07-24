@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ejercicio16
 {
-    public class Class1
+    public class Venta
     {
+        public long Id { get; set; }
     }
 }
